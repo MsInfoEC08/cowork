@@ -1,4 +1,4 @@
-#include<std>
+#include<std> caskjnl 
 void main()
 {
 	int x;
